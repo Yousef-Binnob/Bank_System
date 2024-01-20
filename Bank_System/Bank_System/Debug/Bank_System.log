@@ -1,0 +1,43 @@
+﻿  Bank_System.cpp
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(91,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(118,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(144,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(158,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(177,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(202,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(224,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(245,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(266,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(303,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(357,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsString.h(501,29): warning C4018: '<': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsUtil.h(64,1): warning C4102: 'defualt': unreferenced label
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsUtil.h(287,27): warning C4018: '<=': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsUtil.h(301,27): warning C4018: '<=': signed/unsigned mismatch
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsUser.h(26): message : see declaration of 'clsUser::stLoginRegisterRecord'
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(207,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(152): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(421,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(434,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsTransferScreen.h(47,58): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Bank_System\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank_System.vcxproj -> E:\practice and self-learning\programming advices\oop as it should be(applications)\Bank_System\Debug\Bank_System.exe
